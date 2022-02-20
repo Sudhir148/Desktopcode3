@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.card {
+    height: 65px;
+    width: 15%;
+    background-color: #90b488;
+    float: left;
+    margin-left: 15%;
+
+
+}
+
+.centered {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 80px;
+    color: white;
+    border-radius: inherit;
+}
+
+.onecentered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 45px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+.fa {
+    padding: 13px;
+    font-size: 30px;
+    width: 65px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-instagram {
+    background-color: #e3106c;
+    color: white;
+}
+.image{
+    margin-left: 40%;
+    margin-top: 1%;
+}
+#blue{
+    margin-top: 2%;
+}

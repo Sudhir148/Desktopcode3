@@ -1,0 +1,55 @@
+.head{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+.cal{
+    height: 420px;
+    width: 35%;
+    margin-left: 60%;
+    margin-top: 5%;
+    border: solid 2px white;
+    background-color: lightblue;
+
+}
+.subcal{
+    height: 70px;
+    width: 46%;
+    border: solid 2px white;
+    margin-top: 2%;
+    margin-left: 2%;
+    float: left;
+    background-color: white;
+    box-shadow: 10px 20px 10px gray;
+}
+
+.subcal2{
+    height: 70px;
+    width: 60%;
+    margin-top: 26%;
+    margin-left: 18%;
+    background-color: white;
+    box-shadow: 10px 20px 10px gray;
+}
+
+.subcal3{
+    height: 70px;
+    width: 30%;
+    margin-top: 10%;
+    margin-left: 12%;
+    float: left;
+    background-color: white;
+    box-shadow: 10px 20px 10px gray;
+}
+.subcal3:hover{
+    transform: scale(1.1);
+}
+.add{
+    text-align: center;
+    margin-top: 8%;
+    font-size: 30px;
+    font-weight: bold;
+}
+.form-control{
+    margin-top: 6%;
+}
